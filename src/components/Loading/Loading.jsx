@@ -30,7 +30,7 @@ const Loading = () => {
           letterSpacing: "2px",
         }}
       >
-        
+        quick
       </span>
     </div>
   );
